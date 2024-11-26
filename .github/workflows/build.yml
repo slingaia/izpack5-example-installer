@@ -39,3 +39,4 @@ jobs:
           name: izpack-installer
           path: installer/target/jcg-23-installer.jar
           if-no-files-found: error 
+
